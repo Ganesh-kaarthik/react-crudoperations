@@ -1,0 +1,1 @@
+export const BaseAPI_URL =  "https://63a89a01f4962215b5858ff4.mockapi.io/api/v1/reactcrudoperationsapi"
